@@ -1,10 +1,12 @@
 **Problem Statement**
+
 You are a junior data analyst at a retail company. Your manager hands you a dataset of past customer orders and asks you to build a model that predicts whether a 
 customer will make a repeat purchase within 30 days.
 
 The dataset contains the following columns:
 
 **Column**	                          **Description**
+
 customer_id	                      Unique customer identifier
 order_count_last_90d	            Number of orders placed in the last 90 days
 avg_order_value	                  Average order value in INR
