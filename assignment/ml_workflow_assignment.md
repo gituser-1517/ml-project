@@ -20,6 +20,10 @@ repeat_purchase_flag	            1 if the customer made a repeat purchase within
 discount_used_on_repeat_order	    Discount applied on the repeat purchase order
 
 
+
+
+
+
 **Task 1 Question**
 
 Identify which column in the dataset is the label, and which column, if included as a feature, would introduce data leakage. For each, write one sentence 
